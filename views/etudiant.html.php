@@ -53,7 +53,6 @@
                             <div>
                                 <h3 class="text-lg font-semibold text-gray-700">Total heures d'absence</h3>
                                 <p class="text-2xl font-bold text-teal-700">2 heures</p>
-                                <p class="text-sm text-gray-500"></p>
                             </div>
                         </div>
                     </div>
